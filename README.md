@@ -9,5 +9,5 @@
 
 Для установки нужно симлинковать файлик `mac/keyboard_ext.json` в каталог 
 `~/.config/karabiner/assets/complex_modifications/`, после этого перезапустить 
-Karabiner и включать правила при помощи кнопку `Add rule` на закладке 
+Karabiner и включать правила при помощи кнопки `Add rule` на закладке 
 `Complex Modifications`.
