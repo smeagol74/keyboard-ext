@@ -4,7 +4,7 @@
   "homepage": "https://github.com/smeagol74/keyboard-ext",
   "hostpage": "https://github.com/smeagol74/keyboard-ext",
   "manual": "https://github.com/smeagol74/keyboard-ext",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/smeagol74/keyboard-ext/master/mac/keyboard-ext.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/smeagol74/keyboard-ext/master/mac/keyboard_ext.json",
   "rules": [
     {
       "description": "CapsLock to Hyper/Escape",
